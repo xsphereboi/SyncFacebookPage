@@ -17,7 +17,8 @@ pip install requests
 
 ### Windows
 
-Feed in necessary details in settings.conf file and run the main file
+Feed in necessary details in settings.conf file and run the main file.
+Make sure to download chromedriver.exe for your chrome version and add chromedriver.exe's path .
 
 ```python
 python main.py
